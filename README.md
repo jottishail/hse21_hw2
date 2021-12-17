@@ -1,7 +1,7 @@
 # hse21\_hw2
 
-[Колаб (1 часть)](...) \
-[Колаб (2 часть)](...)
+[Колаб (1 часть)](https://colab.research.google.com/drive/1KGkBPqxEYU4mdLraFVTA5Pi07CqzU4Q1) \
+[Колаб (2 часть)](https://colab.research.google.com/drive/1xKziQChmjzto_EnyyYeGEt9iFxupJrjY)
 
 Статистика по генам:
 - Всего генов: 3612
